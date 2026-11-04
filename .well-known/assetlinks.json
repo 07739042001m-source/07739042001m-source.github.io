@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.app_07739042001m_source.twa",
+      "sha256_cert_fingerprints": [
+        "57:0F:CD:9F:1C:37:83:91:11:C0:09:93:0D:57:DB:75:9E:2D:A9:7D:8E:6C:BD:68:B7:4D:D9:4B:11:D5:6D:91"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mdmobile.app",
+      "sha256_cert_fingerprints": [
+        "78:E5:3B:F2:25:E8:94:8F:2C:20:CD:18:BB:B9:ED:97:94:45:95:86:B5:AD:B1:8C:BA:78:2B:12:CF:9A:86:25"
+      ]
+    }
+  }
+]
