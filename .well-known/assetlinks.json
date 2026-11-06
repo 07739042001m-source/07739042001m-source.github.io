@@ -22,5 +22,17 @@
         "78:E5:3B:F2:25:E8:94:8F:2C:20:CD:18:BB:B9:ED:97:94:45:95:86:B5:AD:B1:8C:BA:78:2B:12:CF:9A:86:25"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alyaqout.app",
+      "sha256_cert_fingerprints": [
+        "20:B8:1A:DA:51:17:ED:54:45:BA:61:E8:44:01:52:5C:09:8F:32:55:FD:33:92:83:8C:B1:1C:CB:92:C5:F8:B2"
+      ]
+    }
   }
 ]
